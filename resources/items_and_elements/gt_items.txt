@@ -1,0 +1,29 @@
+Crop Residues:5064
+Rice Cultivation:5060
+Burning - Crop residues:5066
+Enteric Fermentation:5058
+Manure Management:5059
+Manure left on Pasture:5063
+Manure applied to Soils:5062
+Synthetic Fertilizers:5061
+Drained organic soils:6729
+On-farm energy use:6994
+Forestland:6751
+Net Forest conversion:6750
+Savanna fires:6795
+Fires in organic soils:6993
+Forest fires:6992
+Food systems waste disposal:6991
+Fertilizers Manufacturing:6504
+On-farm electricity use:6510
+Food Processing:6507
+Food Packaging:6506
+Food Retail:6508
+Food Household Consumption:6505
+Food Transport:6815
+Other sectors > (List):6966>
+-- Energy:6821
+-- IPPU:6817
+-- Waste:6818
+-- International bunkers:6820
+-- Other:6819

@@ -1,0 +1,5 @@
+Area harvested:2312
+Yield:2413
+Production Quantity:2510
+Stocks:2111
+Producing Animals/Slaughtered:2313

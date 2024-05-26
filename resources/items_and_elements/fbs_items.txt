@@ -1,0 +1,99 @@
+Population:2501
+Wheat and products:2511
+Rice and products:2807
+Barley and products:2513
+Maize and products:2514
+Rye and products:2515
+Oats:2516
+Millet and products:2517
+Sorghum and products:2518
+Cereals, Other:2520
+Cassava and products:2532
+Potatoes and products:2531
+Sweet potatoes:2533
+Yams:2535
+Roots, Other:2534
+Sugar cane:2536
+Sugar beet:2537
+Sugar non-centrifugal:2541
+Sugar (Raw Equivalent):2542
+Sweeteners, Other:2543
+Honey:2745
+Beans:2546
+Peas:2547
+Pulses, Other and products:2549
+Nuts and products:2551
+Soyabeans:2555
+Groundnuts:2552
+Sunflower seed:2557
+Rape and Mustardseed:2558
+Cottonseed:2559
+Coconuts - Incl Copra:2560
+Sesame seed:2561
+Palm kernels:2562
+Olives (including preserved):2563
+Oilcrops, Other:2570
+Soyabean Oil:2571
+Groundnut Oil:2572
+Sunflowerseed Oil:2573
+Rape and Mustard Oil:2574
+Cottonseed Oil:2575
+Palmkernel Oil:2576
+Palm Oil:2577
+Coconut Oil:2578
+Sesameseed Oil:2579
+Olive Oil:2580
+Ricebran Oil:2581
+Maize Germ Oil:2582
+Oilcrops Oil, Other:2586
+Tomatoes and products:2601
+Onions:2602
+Vegetables, other:2605
+Oranges, Mandarines:2611
+Lemons, Limes and products:2612
+Grapefruit and products:2613
+Citrus, Other:2614
+Bananas:2615
+Plantains:2616
+Apples and products:2617
+Pineapples and products:2618
+Dates:2619
+Grapes and products (excl wine):2620
+Fruits, other:2625
+Coffee and products:2630
+Cocoa Beans and products:2633
+Tea (including mate):2635
+Pepper:2640
+Pimento:2641
+Cloves:2642
+Spices, Other:2645
+Wine:2655
+Beer:2656
+Beverages, Fermented:2657
+Beverages, Alcoholic:2658
+Alcohol, Non-Food:2659
+Bovine Meat:2731
+Mutton & Goat Meat:2732
+Pigmeat:2733
+Poultry Meat:2734
+Meat, Other:2735
+Offals, Edible:2736
+Butter, Ghee:2740
+Cream:2743
+Fats, Animals, Raw:2737
+Fish, Body Oil:2781
+Fish, Liver Oil:2782
+Eggs:2744
+Milk - Excluding Butter:2848
+Freshwater Fish:2761
+Demersal Fish:2762
+Pelagic Fish:2763
+Marine Fish, Other:2764
+Crustaceans:2765
+Cephalopods:2766
+Molluscs, Other:2767
+Aquatic Animals, Others:2769
+Meat, Aquatic Mammals:2768
+Aquatic Plants:2775
+Infant food:2680
+Miscellaneous:2899

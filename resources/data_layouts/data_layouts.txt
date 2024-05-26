@@ -1,0 +1,69 @@
+FBS
+Domain Code         object
+Domain              object
+Area Code (FAO)      int64
+Area                object
+Element Code         int64
+Element             object
+Item Code            int64
+Item                object
+Year Code            int64
+Year                 int64
+Unit                object
+Value              float64
+dtype: object
+
+
+GT
+Domain Code         object
+Domain              object
+Area Code (FAO)      int64
+Area                object
+Element Code         int64
+Element             object
+Item Code            int64
+Item                object
+Year Code            int64
+Year                 int64
+Source Code          int64
+Source              object
+Unit                object
+Value              float64
+Note               float64
+dtype: object
+
+
+QCL
+Domain Code         object
+Domain              object
+Area Code (FAO)      int64
+Area                object
+Element Code         int64
+Element             object
+Item Code            int64
+Item                object
+Year Code            int64
+Year                 int64
+Unit                object
+Value              float64
+dtype: object
+
+
+Weather
+STATION      object
+NAME         object
+LATITUDE     object
+LONGITUDE    object
+ELEVATION    object
+DATE         object
+AWND         object
+PRCP         object
+SNOW         object
+SNWD         object
+TAVG         object
+TMAX         object
+TMIN         object
+WSF2         object
+dtype: object
+
+

@@ -1,0 +1,9 @@
+Emissions (CH4):7225
+Direct emissions (N2O):7234
+Indirect emissions (N2O):7236
+Emissions (N2O):7230
+Emissions (CO2):7273
+Emissions (CO2eq) from F-gases (AR5):717815
+Emissions (CO2eq) from CH4 (AR5):724413
+Emissions (CO2eq) from N2O (AR5):724313
+Emissions (CO2eq) (AR5):723113
