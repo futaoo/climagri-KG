@@ -1,1 +1,1 @@
-This is a folder with a list of script contributing to the conference
+This is a folder with a list of scripts contributing to the conference
